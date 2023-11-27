@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 知是行之始，行是知之成 # the website title (if blank, full name will be used instead)
-first_name: Ruibing
+title: Ruibing Su # the website title (if blank, full name will be used instead)
+first_name:
 middle_name: 
-last_name: Su
+last_name:
 email: rbsu@umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
