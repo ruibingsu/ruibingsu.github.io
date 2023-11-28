@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ruibing Su # the website title (if blank, full name will be used instead)
-first_name:
+title:  # the website title (if blank, full name will be used instead)
+first_name: Ruibing Su
 middle_name: 
 last_name:
 email: rbsu@umd.edu
