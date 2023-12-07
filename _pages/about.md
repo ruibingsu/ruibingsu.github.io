@@ -2,16 +2,15 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>E-mail: rbsu@umd.edu </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>3114 Tydings Hall</p>
+    <p>College Park, MD 20740</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
