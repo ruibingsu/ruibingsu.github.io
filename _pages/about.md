@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: E-mail: rbsu@umd.edu
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
