@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: ture # crops the image to make it circular
   more_info: >
-    <p>rbsu@umd.edu</p>
-    <p>3114 Tydings Hall</p>
-    <p>College Park, MD 20740</p>
+    <p>Email: rbsu@umd.edu</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
