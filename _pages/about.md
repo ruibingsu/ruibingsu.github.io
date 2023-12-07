@@ -7,8 +7,9 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: ture # crops the image to make it circular
   more_info: >
+    <p>rbsu@umd.edu</p>
     <p>3114 Tydings Hall</p>
     <p>College Park, MD 20740</p>
 
@@ -22,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
     <p>Hello! I'm Ruibing Su. I am a PhD candidate in Economics at the University of Maryland, College Park. I earned my bachelor's degrees in Space Science and Engineering and Economics from Peking University in 2018, followed by a master's degree in Economics at the same university in 2021 (PKUer&times;2).</p>
     <p>My research primarily revolves around Industrial Organization and Econometrics, with a specific focus on retail markets, advertising, and the use of machine learning for causal inference and structural modeling.</p>
 </body>
-
+<br><br/>
 <body>
     <h1>Work in Progress</h1>
     <p><strong>Private Equity Buyouts: A Study of the US Ketchup Industry </strong></p>
