@@ -23,12 +23,10 @@ social: false  # includes social icons at the bottom of the page
     <p>My research primarily revolves around Industrial Organization and Econometrics, with a specific focus on retail markets, advertising, and the use of machine learning for causal inference and structural modeling.</p>
 </body>
 
-<head>
-    <title>Work in Progress</title>
-</head>
 <body>
-    <h1>Private Equity Buyouts: A Study of the US Ketchup Industry</h1>
-    <p><strong>Abstract:</strong> Do PE buyouts improve acquired firms’ performance? In this paper, I investigate the effect of PE buyouts in the ketchup industry, leveraging large-scale Kilts Nielsen databases that detail consumer purchases and advertising. Focusing on the acquisition of Heinz by 3G Capital and Berkshire Hathaway, I document the increase in Heinz’s retailer prices and advertising following the acquisition. Using a random coefficient logit model, I recover the marginal costs for Heinz and its major competitor under a Nash-Bertrand equilibrium. Then, I evaluate the impact of the buyout on Heinz’s marginal costs through a DiD method, and my results reveal that the buyout increased Heinz’s marginal costs by 15%.</p>
+    <h1>Work in Progress</h1>
+    <p><strong>Private Equity Buyouts: A Study of the US Ketchup Industry </strong></p>
+     <p>Abstract: Do PE buyouts improve acquired firms’ performance? In this paper, I investigate the effect of PE buyouts in the ketchup industry, leveraging large-scale Kilts Nielsen databases that detail consumer purchases and advertising. Focusing on the acquisition of Heinz by 3G Capital and Berkshire Hathaway, I document the increase in Heinz’s retailer prices and advertising following the acquisition. Using a random coefficient logit model, I recover the marginal costs for Heinz and its major competitor under a Nash-Bertrand equilibrium. Then, I evaluate the impact of the buyout on Heinz’s marginal costs through a DiD method, and my results reveal that the buyout increased Heinz’s marginal costs by 15%.</p>
 </body>
 
 
