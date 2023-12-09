@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p class="font-weight-bold">Contact Information:</p>
     <p>rbsu@umd.edu</p>
     <p>3114 Tydings Hall</p>
